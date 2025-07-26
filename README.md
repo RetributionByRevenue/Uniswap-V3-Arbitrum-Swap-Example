@@ -24,7 +24,7 @@ A Python script that performs token swaps on Uniswap V3 using the Arbitrum netwo
 pip install web3 python-dotenv requests
 ```
 
-2. Set up environment file at `/media/veracrypt1/.env`:
+2. Set up environment file at `./.env`:
 ```
 PRIVATE=your_private_key_here
 ```
