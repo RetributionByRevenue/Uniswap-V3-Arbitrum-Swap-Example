@@ -81,6 +81,10 @@ This script involves real cryptocurrency transactions. Always:
 - Keep your private key secure
 - Understand the risks of automated trading
 
+## Please dontate 🥺 (i always need more BNB/ETH gas 😭)
+
+BNB/ETH: 0xE80089A6158901469e4DD3c13ac01f39BDF9bEE5
+
 ## License
 
 Use at your own risk. No warranty provided.
